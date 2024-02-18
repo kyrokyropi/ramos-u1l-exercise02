@@ -1,6 +1,6 @@
-Name: Kyro Kristoffer Pagsanjan Ramos
-Degree Program: BS Computer Science
-Website Link: https://kyrokyropi.github.io/ramos-u1l-exercise02/
+Name: Kyro Kristoffer Pagsanjan Ramos <br>
+Degree Program: BS Computer Science <br>
+Website Link: https://kyrokyropi.github.io/ramos-u1l-exercise02/ <br>
 
 STEPS ON CREATING A GITHUB PAGE:
 1) Push your HTML and CSS Files to your repository
@@ -8,7 +8,7 @@ STEPS ON CREATING A GITHUB PAGE:
 3) Select /root then Save
 4) Access your website through "<Github username>.github.io/<repository name>"
 
-Takeaways:
-I recalled how to code and make a webpage using HTML and CSS
+Takeaways: <br>
+I recalled how to code and make a webpage using HTML and CSS <br>
 I also learned how to deploy websites using github
 
