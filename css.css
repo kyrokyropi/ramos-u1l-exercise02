@@ -1,0 +1,93 @@
+
+body { 
+    /* Used for the whole website like the texts and the background image */
+    font-family: OCR A Std, monospace;
+    background-image: url(assets/background.jpg);
+    background-size: contain; 
+    background-repeat: repeat;
+    background-position: center;
+
+}
+.container{ /* used for getting ride of the horizontal scroll wheel and adjusting the size of the website*/
+    margin: 0 auto;
+    padding: 0 20px;
+}
+header {
+    /* for the header part of the website, where the name is */
+
+    text-align: center;
+    background-color: 6a7177;
+    height:50px;
+}
+h1 { 
+    /* the text in the header*/
+    font-family: OCR A Std, monospace;
+    background-color: 6a7177;
+    font-weight: bold;
+    color:ece5d3;
+}
+.featured {
+    /* the featured part of the website */
+    width: 100%;
+    height: 550px; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.featuredimg{
+    /* design for the image in the featured part */
+    max-height:60%;
+    max-width:60%;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 15px solid #6a7177;
+}
+.projects {
+    /* design for project part of the website */
+    color:ece5d3;
+    background-color: 6a7177;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+
+}
+.projectimg {
+    /* where the images are resized */
+    width: 300px; 
+    height: auto;
+    object-fit: contain;
+}
+.projcontainer {
+    /* where the captions for the projects are modified */
+    text-align: center;
+    margin-bottom: 20px;
+}
+.skills {
+    /* design for the skills part */
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+    color:ece5d3;
+    padding: 20px;
+
+}
+
+footer {
+    /* for the footer part, the design and the size */
+    background-color: 6a7177;
+    color: #fff;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    
+}
+.footertext{
+    /* text modification for the footer text */
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+    color:ece5d3;
+    padding-left: 20px;
+}
